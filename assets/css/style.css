@@ -7,7 +7,7 @@ header,footer{
     padding-left: 30px;
     width: 100%;
     height: 100px;
-    background:rgb(192, 3, 3);
+    background-image: linear-gradient(#ca1804, #9f0f05);
     color: white;
     font-size: larger;
 }
@@ -22,7 +22,7 @@ section aside{
     float: left;
     color: #fff;
     padding-left: 20px;
-    background: rgb(1, 97, 1);
+    background:#8da73f;
     font-size: larger;
 }
 aside h3{
@@ -41,5 +41,9 @@ section main{
     font-size: 25px;
 }
 section main h3{
-    color: rgb(11, 11, 148);
+    font-weight: normal;
+    color: #416283;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    border-bottom: 1px solid #c3d4e4;
 }
